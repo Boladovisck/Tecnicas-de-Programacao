@@ -1,7 +1,7 @@
 /*
-Grupo:  Italo Cavalcante de Abreu - Classes concretas
-	João Vitor Pinheiro Nascimento - classe Colorida e questao 5
-	Jordan Ferreira - Classe abstrata Figura e chefia
+Grupo:  Italo Cavalcante de Abreu:397135- Classes concretas
+	João Vitor Pinheiro Nascimento:388837- classe Colorida e questao 5
+	Jordan Ferreira:384360- Classe abstrata Figura e chefia
 //*/
 
 class Main{
